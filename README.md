@@ -8,7 +8,7 @@ Steps to run a prediction on this command line :
 4) Run on command line java -jar LambdaNetCLI-all-1.0-SNAPSHOT.jar $parameter1 $parameter2 $parameter3 on this project root\build\libs directory. Where $parameter1 - unzipped directory of model and data, $parameter2 - directory of compiled parsingFromFile.ts i.e, parsingFromFile.js, $parameter3 - Directory of project which is to be predicted.
 
 
-#Result
+# Result
 
 The result shows file name, line number and character location where the top 5 prediction is done.
 
