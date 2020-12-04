@@ -1,5 +1,7 @@
 # LambdaNetCLI
 
+Changes made in LambNet to make it support to take custom location of parsingFromFile.js(compiled parsingFromFile.ts) as input can be found here - https://github.com/MrVPlusOne/LambdaNet/compare/master...koushik1703:JetBrains_Task.
+
 Steps to run a prediction on this command line :
 
 1) Clone this repository.
