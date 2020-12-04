@@ -1,8 +1,10 @@
 # LambdaNetCLI
 
+A command line tool to get pre-trained model, data, parsingFromFile.js, project to predict directory as input and get the prediction on command line console.
+
 Changes made in LambNet to make it support to take custom location of parsingFromFile.js(compiled parsingFromFile.ts) as input can be found here - https://github.com/MrVPlusOne/LambdaNet/compare/master...koushik1703:JetBrains_Task.
 
-Steps to run a prediction on this command line :
+# Steps to run a prediction on this command line :
 
 1) Clone this repository.
 2) Download and Unzip https://drive.google.com/file/d/1NvEVQ4-5tC3Nc-Mzpu3vYeyEcaM_zEgV/view?usp=sharing (model) and https://drive.google.com/file/d/1ZhsUf9bUzT3ZJB0KzNP6w2aj3sQZwtsp/view?usp=sharing (data). Have the Unzipped folders in same directory.
