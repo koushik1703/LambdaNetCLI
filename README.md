@@ -14,7 +14,7 @@ Changes made in LambNet to make it support to take custom location of parsingFro
 
 # Result
 
-The result shows the variable name and Top 5 prediction for it, for every variable in every file.
+The result shows the variable/method name and Top 5 prediction for it, for every variable/method in every file.
 
 Example: 
 
