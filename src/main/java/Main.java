@@ -35,7 +35,7 @@ public class Main {
             String[] skipSet = {"node_modules"};
 
             var results = predService.predictOnProject(projectPath, true, skipSet, parsingFromFilePath); // Prediction on Project
-            var predictionResults = new TypeInferenceService.PredictionResultsWithVariable(results, projectDir + "\\"); // Prediction Result Wrapping
+            var predictionResults = new TypeInferenceService.PredictionResultsWithVariable(results, projectDir + "/"); // Prediction Result Wrapping
             predictionResults.prettyPrint(); // Printing Result
         } catch (Throwable e) {
             System.out.println("Got exception: " + e.getMessage());
