@@ -24,9 +24,9 @@ Changes made in LambNet to make it support to take custom location of parsingFro
 
     Where,
     
-        $parameter1 - unzipped directory of model and data
+        $parameter1 - Unzipped directory of model and data
         
-        $parameter2 - directory of compiled parsingFromFile.ts i.e, parsingFromFile.js
+        $parameter2 - Directory of compiled parsingFromFile.ts i.e, parsingFromFile.js
         
         $parameter3 - Directory of project which is to be predicted.
 
