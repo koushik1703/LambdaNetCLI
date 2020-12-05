@@ -8,7 +8,7 @@ Changes made in LambNet to make it support to take custom location of parsingFro
 
 1) Clone this repository.
 
-2) Run on command line the command "gradlew createJar" on this project cloned root directory. And run sh installDependencies.sh/ installDependencies.bat on linux and Mac/ Windows respectively in scripts/ts directory.
+2) Run on command line the command "gradlew createJar" on this project cloned root directory. And run "sh installDependencies.sh"/ "installDependencies.bat" on linux and Mac/ Windows respectively in scripts/ts directory.
 
 3) Download and Unzip https://drive.google.com/file/d/1NvEVQ4-5tC3Nc-Mzpu3vYeyEcaM_zEgV/view?usp=sharing (model) and https://drive.google.com/file/d/1ZhsUf9bUzT3ZJB0KzNP6w2aj3sQZwtsp/view?usp=sharing (data). Have the Unzipped folders in same directory.
 
