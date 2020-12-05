@@ -15,12 +15,9 @@ Changes made in LambNet to make it support to take custom location of parsingFro
 4) Run on command line the command "java -jar LambdaNetCLI-all-1.0-SNAPSHOT.jar $parameter1 $parameter2 $parameter3" on this project root\build\libs directory. 
 
     Where,
-      
-      $parameter1 - unzipped directory of model and data
-
-      $parameter2 - directory of compiled parsingFromFile.ts i.e, parsingFromFile.js
-
-      $parameter3 - Directory of project which is to be predicted.
+        $parameter1 - unzipped directory of model and data
+        $parameter2 - directory of compiled parsingFromFile.ts i.e, parsingFromFile.js
+        $parameter3 - Directory of project which is to be predicted.
 
 
 # Result
