@@ -14,16 +14,7 @@ Changes made in LambNet to make it support to take custom location of parsingFro
 
 # Result
 
-The result shows file name, line number and character location where the top 5 prediction is done.
+The result shows the variable name and Top 5 prediction for it, for every variable in every file.
 
 Example: 
 
-=== File: src/ex1-typing.ts ===
-(3,6)-(3,11): [1](99.67%) Object, [2](0.03%) Map, [3](0.03%) Promise, [4](0.02%) Function, [5](0.02%) Partial
-
-exaplanation - File - ex1-typing.ts line - 3 characters - 6 to 11, and top 5 prediction. And it predicts in the file ex1-typing.ts on line 3 at characters 6 to 11 as 99.67% as Object, 0.03% Map, 0.03% Promise, 0.02% Function, 0.02% Partial type.
-
-
-
-
-![LambdaNetCLIResult](https://user-images.githubusercontent.com/45932617/101178017-c2485e80-3648-11eb-9d58-1c2dafb5641a.png)
