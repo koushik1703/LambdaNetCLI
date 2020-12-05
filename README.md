@@ -18,3 +18,4 @@ The result shows the variable name and Top 5 prediction for it, for every variab
 
 Example: 
 
+![LambdaNetCLIResult](https://user-images.githubusercontent.com/45932617/101231589-8fd04d00-36ac-11eb-82be-1ce4d9017cba.png)
