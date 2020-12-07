@@ -6,7 +6,7 @@ Changes made in LambNet to make it support to take custom location of parsingFro
 
 
 
-# Steps to run a prediction on this command line(On machine with Java and Node already installed) :
+# Steps to run a prediction on this command line(On machine with Java11 and Node already installed) :
 
 1) Clone this repository.
 
